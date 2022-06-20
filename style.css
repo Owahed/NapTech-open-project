@@ -869,7 +869,7 @@ background: #3A78F2;
         gap: 0;
         flex-direction: column;
         background-color: #3A78F2;
-        width: 100%;
+        width: 70%;
         text-align: center;
         transition: 0.3s;
     }
